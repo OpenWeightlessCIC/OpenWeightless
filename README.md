@@ -12,9 +12,18 @@ It can be download from https://try.weightless.org/Weightless_spec_form
 ACCESS TO PATENTS:
 The Weightless-P protocol is based on intellectual property that is the subject of patents.
 Rights to use these patents are available to members of the Weightless SIG (Special Interest Group)
-Should you wish to deploy this code or derivatives of it, you need to be a Weightless SIG member.
+
+Should you wish to deploy this code or derivatives of it, in full or part, you will need to be a Weightless SIG member
+for all code that is bassed on a patent managed by the Weightless SIG.
+
+Membership of the Weightless SIG for the purposes of using this open source software stack in commercial products or 
+deploymentss requires the derivative product to be submitted and pass Weightless-P certification to be valid.
 For specific modules, please refer to the list of associated patents, trademarks and certification marks to confirm 
 the licensing needed prior to branching a part of the project to confirm the licensing position.  
+
+
+CERTIFICATION:
+Applus+ are the current certification agent for Weightless-P software and hardware products
 
 
 ACCESS TO TRADE MARKS:
@@ -26,7 +35,7 @@ For peremission to use the OpenWeightless trademark, contact OpenWeightless CIC
 ALTERNATIVE LICENSES:
 
 Where an organisation does NOT want an Open Source license, such as for commercial, policy, indemnity or other reason(s)
-this code can be incorporated as-is or in a derivatitive of this code, provided the ACCESS to PATENTS and TRADEMARKS policies
+this code can be incorporated as-is or in a derivatitive work, provided the ACCESS to PATENTS and TRADEMARKS policies
 are followed. Weightless SIG and OpenWeightless CIC are happy to help.  
 
 
