@@ -1,30 +1,34 @@
-# OpenWeightless-P
-Protocol stack for the Weightless-P low power wide area network (LPWAN) Sub-1GHz license exempt radio protocol
+# OpenWeightless
+Is an 'open' implementation of the Weightless low power wide area network (LPWAN) Sub-1GHz license exempt radio protocol
 
-This project aims to make available an open source implementation of the Weightless-P radio protocol stack.
-Code from this project will be tested for to ensure it is compliant with the published standard.
+This project makes available an open source implementation of the Weightless protocol stack.
 
-Weightless-P is published as an 'Open Standard' 
+Weightless is an 'Open Standard' wireless protocol based on the specification of the Weightless-P variant.
+
 Access to the specification is free to the IoT developer community on request
 It can be download from https://try.weightless.org/Weightless_spec_form
 
 
 ACCESS TO PATENTS:
-The Weightless-P protocol is based on intellectual property that is the subject of patents.
-Rights to use these patents are available to members of the Weightless SIG (Special Interest Group)
+There are a number of Weightless protocol variants (suffixed as -W -N & -P). 
+Each protocol variant is based on intellectual property that's the subject of patents.
+Mutual rights to use and share these patents are available to members of the Weightless SIG (Special Interest Group)
 
-Should you wish to deploy this code or derivatives of it, in full or part, commercially you MUST be a Weightless SIG
-member to have rights to use the associated patents who's licensing is managed by the Weightless SIG.
+Should you wish to deploy OpenWeightless code or derivatives of it, commercially, in full or part, you MAY wish to be a Weightless SIG
+member to be assured you have full legal rights to use any patents associated with a particular protocol variant. 
 
-Everyone is free to copy and create derivative works NOT associated with patents under the Creative Commons 
-Attribution 4.0 International License, whitout obligation to become a Weightless SIG member or pass certification. 
+Membership of the Weightless SIG is available here:  http://www.weightless.org/sigmembers/signup
 
-Membership of the Weightless SIG and Weightless-P certification(s) protect the users of the standard by ensuring the
+Everyone is free to copy and create derivative works NOT associated with patents covered by the Weightless SIG under the 
+Creative Commons Attribution 4.0 International License, without obligation to be a Weightless SIG member nor pass certification. 
+
+Membership of the Weightless SIG and Weightless certification(s) protect the users of the standard by ensuring the
 quality of both original and derivative works.
 
 
 CERTIFICATION:
-Applus+ are the current certification agent for Weightless-P software and hardware products
+Applus+ are the current certification agent for Weightless software and hardware products
+Code from this project will be tested for to ensure it is compliant with the published standard.
 
 
 ACCESS TO TRADE MARKS:
@@ -37,7 +41,7 @@ ALTERNATIVE LICENSES:
 
 Where an organisation does NOT want an Open Source license, such as for commercial, policy, indemnity or other reason(s)
 this code can be incorporated as-is or in a derivatitive work, provided the ACCESS to PATENTS and TRADEMARKS policies
-are followed. Weightless SIG and OpenWeightless CIC are happy to help.  
+are followed. Weightless SIG and OpenWeightless C.I.C. are happy to help.  
 
 
 SOFTWARE LICENSE:
@@ -49,7 +53,7 @@ The source code on this project open source
 DERIVATIVE WORKS:
 Branches and derivative works are permitted under the Creative Commons Attribution 4.0 International License.
 Be aware however that derivative works are not permitted to use the Weightless or OpenWeightless trademarks without permission.
-Be aware also that operating the Weightless-P radio protocol stack in any capacity is permitted while the developer / user is a signed up member of the Weightless SIG (Special Interest Group)  see:  http://www.weightless.org/membership/weightless-developer
+Be aware also that operating the Weightless radio protocol stack in any capacity is permitted while the developer / user is a signed up member of the Weightless SIG (Special Interest Group)  see:  http://www.weightless.org/membership/weightless-developer
 
 CONTRIBUTIONS:
 Contributions are welcomed, as are sample source code provided as a proof of concept / example. 
