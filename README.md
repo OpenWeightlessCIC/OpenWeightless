@@ -1,47 +1,47 @@
-# OpenWeightless
-Is an 'open' implementation of the Weightless low power wide area network (LPWAN) Sub-1GHz license exempt radio protocol
+# OpenWEIGHTLESS
+Is an 'open' implementation of the WEIGHTLESS low power wide area network (LPWAN) Sub-1GHz license exempt radio protocol
 
-This project makes available an open source implementation of the Weightless protocol stack.
+This project makes available an open source implementation of the OpenWEIGHTLESS protocol stack.
 
-Weightless is an 'Open Standard' wireless protocol based on the specification of the Weightless-P variant.
+All WEIGHTLESS protocols are published as 'open specifications' and as Open Standard candidates.
 
 Access to the specification is free to the IoT developer community on request
-It can be download from https://try.weightless.org/Weightless_spec_form
+It can be download from https://try.weightless.org/Weightless_spec_form (this is a legacy link that is being update)
 
 
 ACCESS TO PATENTS:
-There are a number of Weightless protocol variants (suffixed as -W -N & -P). 
+There are a number of WEIGHTLESS protocol variants (suffixed as -W -N & -P). 
 Each protocol variant is based on intellectual property that's the subject of patents.
-Mutual rights to use and share these patents are available to members of the Weightless SIG (Special Interest Group)
+Mutual rights to use and share these patents are available to members of the WEIGHTLESS SIG (Special Interest Group)
 
-Should you wish to deploy OpenWeightless code or derivatives of it, commercially, in full or part, you MAY wish to be a Weightless SIG
+Should you wish to deploy OpenWEIGHTLESS code or derivatives of it, commercially, in full or part, you MAY wish to be a WEIGHTLESS SIG
 member to be assured you have full legal rights to use any patents associated with a particular protocol variant. 
 
-Membership of the Weightless SIG is available here:  http://www.weightless.org/sigmembers/signup
+Membership of the WEIGHTLESS SIG is available here:  http://www.weightless.org/sigmembers/signup
 
-Everyone is free to copy and create derivative works NOT associated with patents covered by the Weightless SIG under the 
-Creative Commons Attribution 4.0 International License, without obligation to be a Weightless SIG member nor pass certification. 
+Everyone is free to copy and create derivative works NOT associated with patents covered by the WEIGHTLESS SIG under the 
+Creative Commons Attribution 4.0 International License, without obligation to be a WEIGHTLESS SIG member nor pass certification. 
 
-Membership of the Weightless SIG and Weightless certification(s) protect the users of the standard by ensuring the
+Membership of the WEIGHTLESS SIG and WEIGHTLESS certification(s) protect the users of the standard by ensuring the
 quality of both original and derivative works.
 
 
 CERTIFICATION:
-Applus+ are the current certification agent for Weightless software and hardware products
+Applus+ was the certification agent for WEIGHTLESS software and hardware products, but this process is now under review.
 Code from this project will be tested for to ensure it is compliant with the published standard.
 
 
 ACCESS TO TRADE MARKS:
-The "Weightless" & "OpenWeightless" are registered Trade Marks. The software license does NOT permit use these marks.
-For permission to use the Weightless trademark, contact the Weightless SIG
-For peremission to use the OpenWeightless trademark, contact OpenWeightless CIC
+The "WEIGHTLESS" & "OpenWEIGHTLESS" are registered Trade Marks. The software license does NOT permit use these marks.
+For permission to use the WEIGHTLESS trademark, contact the WEIGHTLESS MANAGEMENT
+For peremission to use the OpenWEIGHTLESS trademark, contact OpenWEIGHTLESS C.I.C.
 
 
 ALTERNATIVE LICENSES:
 
 Where an organisation does NOT want an Open Source license, such as for commercial, policy, indemnity or other reason(s)
 this code can be incorporated as-is or in a derivatitive work, provided the ACCESS to PATENTS and TRADEMARKS policies
-are followed. Weightless SIG and OpenWeightless C.I.C. are happy to help.  
+are followed. WEIGHTLESS SIG and OpenWEIGHTLESS C.I.C. are happy to help.  
 
 
 SOFTWARE LICENSE:
@@ -52,8 +52,8 @@ The source code on this project open source
 
 DERIVATIVE WORKS:
 Branches and derivative works are permitted under the Creative Commons Attribution 4.0 International License.
-Be aware however that derivative works are not permitted to use the Weightless or OpenWeightless trademarks without permission.
-Be aware also that operating the Weightless radio protocol stack in any capacity is permitted while the developer / user is a signed up member of the Weightless SIG (Special Interest Group)  see:  http://www.weightless.org/membership/weightless-developer
+Be aware however that derivative works are not permitted to use the WEIGHTLESS or OpenWEIGHTLESS trademarks without permission.
+Be aware also that operating the WEIGHTLESS radio protocol stack in any capacity is permitted while the developer / user is a signed up member of the WEIGHTLESS SIG (Special Interest Group)  see:  http://www.weightless.org/membership/weightless-developer
 
 CONTRIBUTIONS:
 Contributions are welcomed, as are sample source code provided as a proof of concept / example. 
